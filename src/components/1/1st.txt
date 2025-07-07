@@ -1,0 +1,13 @@
+Question 1: Toggle Login Button with Welcome Message
+
+📝 Formulated Question:
+
+Create a React component with a button.
+
+    Initially, display a login page with a button labeled “Login”.
+
+    When the button is clicked, replace the login page with a welcome message and change the button to say “Logout”.
+
+    When clicked again, revert to the login page.
+
+    Implement the functionality using React hooks.

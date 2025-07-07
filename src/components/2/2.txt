@@ -1,0 +1,19 @@
+Question 2: Form with API Fetch, Display, Edit and Update
+
+📝 Formulated Question:
+
+Create a React component with a form containing two input fields:
+
+    ID (number)
+
+    Message (text)
+
+On initial load:
+
+    Fetch a random record from the API https://jsonplaceholder.typicode.com/todos/
+
+    Populate the ID and Message fields with the fetched data (id and title respectively).
+
+After editing the text box:
+
+    When the Update button is clicked, send the updated data back to the API using PUT request via Axios.
